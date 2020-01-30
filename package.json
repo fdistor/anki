@@ -1,0 +1,16 @@
+{
+  "name": "vocab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "anki-apkg-export": "^4.0.2",
+    "puppeteer": "^2.1.0"
+  }
+}
